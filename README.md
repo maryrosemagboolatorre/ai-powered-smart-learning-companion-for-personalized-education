@@ -1,0 +1,2 @@
+# ai-powered-smart-learning-companion-for-personalized-education
+This project aims to develop an AI-powered smart learning companion designed to offer personalized educational experiences. The companion will dynamically adapt to individual user needs by providing tailored explanations, generating customized quizzes, and suggesting diverse learning strategies. It leverages advanced Large Language Models (LLMs) an
